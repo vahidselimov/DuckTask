@@ -1,0 +1,33 @@
+img{
+    margin: 0 auto;
+    width: 100%;
+    height: 300px;
+    border-radius: 60%;
+    width: 200px;
+    height: 250px;
+}
+h3{
+    color: black;
+}
+.A{
+   color: aqua;
+}
+hr{
+    border: 3px solid cornflowerblue;
+    width: 100%;
+    
+}
+.B{
+    color: aqua;
+}
+.C{
+    color: black;
+}
+.D{
+    color: aqua;
+}
+body{
+    background-color: cornsilk;
+    margin: o 5px;
+}
+
